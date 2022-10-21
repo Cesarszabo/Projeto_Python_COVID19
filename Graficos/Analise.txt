@@ -1,0 +1,21 @@
+Nota-se um pico no dia 10 de abril de 2020 onde ocorreram os primeiros obitos.
+
+a partir de agosto de 2020 a taxa não ultrapassa os 2%, mantendo uma estabilidade até outubro de 2021. 
+
+em novembro há uma nova queda e desde janeiro de 2022 a taxa não ultrapassa os 0,3%
+
+Graficos estatisticos:
+
+1º serie de dados;
+2º tendencia; 
+3º sazionalidade;
+4º ruido;
+
+Modelo Arima:
+
+Media movel integrada autoregressiva.
+
+prever a partir dos dados historicos
+
+Base 2022 - 692K
+Base desde começo da pandemia - 689K
