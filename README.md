@@ -17,5 +17,14 @@ Além dos gráficos dos dados apresentados, foi construído as taxas de crescime
 
 Calculado através do modelo ARIMA uma predição dos óbitos para os próximos 30 dias.
 
+### Graficos de decomposição
+1º Série de dados;
+2º Tendência; 
+3º Sazonalidade;
+4º Ruido;
+
+<img src = https://github.com/Cesarszabo/Projeto_Python_COVID19/blob/0cab80446eeab92c653bc01f1ce1064cdab51ae1/Graficos/Graficos%20estatisticos.png>
+
+
 
 
