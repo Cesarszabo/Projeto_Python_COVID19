@@ -5,17 +5,9 @@ Análise exploratória dos dados do COVID-19 com Python.
 
 Fonte da descrição - https://covid19.who.int/data
 
-##Sumario dos campos:
+## Sumario dos campos:
 
-Field name	Type	Description
-Date_reported	Date	Date of reporting to WHO
-Country_code	String	ISO Alpha-2 country code
-Country	String	Country, territory, area
-WHO_region	String	WHO regional offices: WHO Member States are grouped into six WHO regions -- Regional Office for Africa (AFRO), Regional Office for the Americas (AMRO), Regional Office for South-East Asia (SEARO), Regional Office for Europe (EURO), Regional Office for the Eastern Mediterranean (EMRO), and Regional Office for the Western Pacific (WPRO).
-New_cases	Integer	New confirmed cases. Calculated by subtracting previous cumulative case count from current cumulative cases count.*
-Cumulative_cases	Integer	Cumulative confirmed cases reported to WHO to date.
-New_deaths	Integer	New confirmed deaths. Calculated by subtracting previous cumulative deaths from current cumulative deaths.*
-Cumulative_deaths	Integer	Cumulative confirmed deaths reported to WHO to date.
+<table role="table"><thead><tr role="row"><th colSpan="1" role="columnheader">Field name	</th><th colSpan="1" role="columnheader">Type</th><th colSpan="1" role="columnheader">Description</th></tr></thead><tbody role="rowgroup"><tr role="row"><td role="cell">Date_reported</td><td role="cell">Date</td><td role="cell">Date of reporting to WHO</td></tr><tr role="row"><td role="cell">Country_code</td><td role="cell">String</td><td role="cell">ISO Alpha-2 country code</td></tr><tr role="row"><td role="cell">Country</td><td role="cell">String</td><td role="cell">Country, territory, area</td></tr><tr role="row"><td role="cell">WHO_region</td><td role="cell">String</td><td role="cell">WHO regional offices: WHO Member States are grouped into six WHO regions -- Regional Office for Africa (AFRO), Regional Office for the Americas (AMRO), Regional Office for South-East Asia (SEARO), Regional Office for Europe (EURO), Regional Office for the Eastern Mediterranean (EMRO), and Regional Office for the Western Pacific (WPRO).</td></tr><tr role="row"><td role="cell">New_cases</td><td role="cell">Integer</td><td role="cell">New confirmed cases. Calculated by subtracting previous cumulative case count from current cumulative cases count.*</td></tr><tr role="row"><td role="cell">Cumulative_cases</td><td role="cell">Integer</td><td role="cell">Cumulative confirmed cases reported to WHO to date.</td></tr><tr role="row"><td role="cell">New_deaths</td><td role="cell">Integer</td><td role="cell">New confirmed deaths. Calculated by subtracting previous cumulative deaths from current cumulative deaths.*</td></tr><tr role="row"><td role="cell">Cumulative_deaths</td><td role="cell">Integer</td><td role="cell">Cumulative confirmed deaths reported to WHO to date.</td></tr></tbody></table>
 
 ## Descrição do projeto
 
